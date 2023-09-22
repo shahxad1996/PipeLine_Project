@@ -1,0 +1,12 @@
+flask
+numpy
+pandas
+scikit-learn
+seaborn
+flask_mysqldb
+#python-dotenv
+#mysql-connector-python
+#pymysql
+#catboost
+#xgboots
+#-e.
